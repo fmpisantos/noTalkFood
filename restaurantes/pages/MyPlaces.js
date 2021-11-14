@@ -1,25 +1,13 @@
 import React, { useState } from 'react';
 import {
   View,
-  KeyboardAvoidingView,
-  Platform,
-  TouchableWithoutFeedback,
-  Keyboard,
-  Image,
   ScrollView,
   Dimensions,
   Text,
   TouchableOpacity,
 } from 'react-native';
-import TopButtons from '../components/TopButtons';
-import BigButton from '../components/BigButton';
-import { TextInput } from 'react-native-paper';
-import TextInputs from '../components/Textinputs';
 import { AntDesign } from '@expo/vector-icons';
 import RestaurantePaper from '../components/RestaurantePaper';
-
-const width = Dimensions.get('screen').width * 0.16;
-const height = Dimensions.get('screen').height * 0.16;
 
 export default function Home(props) {
   const [places, setPlaces] = useState([

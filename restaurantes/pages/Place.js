@@ -1,27 +1,15 @@
 import React, { useState } from 'react';
 import {
   View,
-  KeyboardAvoidingView,
-  Platform,
-  TouchableWithoutFeedback,
-  Keyboard,
-  Image,
   ScrollView,
   Dimensions,
   Text,
   TouchableOpacity,
+  Image
 } from 'react-native';
-import TopButtons from '../components/TopButtons';
-import BigButton from '../components/BigButton';
-import { TextInput } from 'react-native-paper';
 import TextInputs from '../components/Textinputs';
-import { AntDesign } from '@expo/vector-icons';
-import RestaurantePaper from '../components/RestaurantePaper';
 import { Feather } from '@expo/vector-icons';
 import { Ionicons } from '@expo/vector-icons';
-
-const width = Dimensions.get('screen').width * 0.16;
-const height = Dimensions.get('screen').height * 0.16;
 
 export default function Home(props) {
   const [place, setPlace] = useState(props.route.params);
@@ -63,6 +51,11 @@ export default function Home(props) {
         <View style={props.styles.row}>
           <View style={props.styles.width10} />
           <View style={props.styles.width80}>
+            <Image
+              style={props.styles.restauranteImage}
+              //source={require(props.image)}
+              source={require('../assets/restauranteImages/restaurante.jfif')}
+            />
             <TextInputs
               inputs={[
                 {
