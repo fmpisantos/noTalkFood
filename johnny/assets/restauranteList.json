@@ -1,0 +1,570 @@
+[
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25],
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25],
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "image": "../assets/restauranteImages/restaurante.jfif",
+        "name": "Restaurante example",
+        "local": "Local Exemplo",
+        "location": [38.642219229289815, -9.199787495510746],
+        "timeToGetThere": [20, 25], 
+        "rating": 4.8,
+        "maxPeoplePerTable": 20,
+        "menu": [
+          {
+            "tipo": "Tipo de comida",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 2",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          },
+          {
+            "tipo": "Tipo de comida 3",
+            "items": [
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              },
+              {
+                "nome": "Hamburguer",
+                "descricao": "c/ pão e carne \n (250gr)",
+                "preco": "2.50€"
+              }
+            ]
+          }
+        ]
+      }
+    ]
