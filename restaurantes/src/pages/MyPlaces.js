@@ -7,6 +7,7 @@ import {
 } from 'react-native';
 import { AntDesign } from '@expo/vector-icons';
 import RestaurantePaper from '@components/RestaurantePaper';
+import TopBar from '@components/TopBar'
 
 
 export default function Home(props) {
@@ -47,27 +48,15 @@ export default function Home(props) {
   ]);
   return (
     <View style={props.styles.container}>
-      <View style={props.styles.topButtonContainer}>
-        <View style={props.styles.row}>
-          <View style={props.styles.width10} />
-          <View style={props.styles.width80}>
-            <View style={props.styles.center}>
-              <Text>{props.lang.myplaces}</Text>
-            </View>
-          </View>
-          <View style={props.styles.width10}>
+      <TopBar {...props} center={<Text>{props.lang.myplaces}</Text>} right={
             <TouchableOpacity
-              style={(props.styles.centerButton, { marginTop: -5 })}
-              onPress={() => {
-                alert('addNewPlace');
-              }}>
+            style={(props.styles.centerButton, { marginTop: -5 })}
+            onPress={() => {
+              alert('addNewPlace');
+            }}>
               <AntDesign name="plussquareo" size={24} color="black" />
             </TouchableOpacity>
-            <View style={props.styles.spacing2} />
-          </View>
-          <View style={props.styles.spacing2} />
-        </View>
-      </View>
+       } />
       <View style={props.styles.spacing05} />
       <ScrollView
         contentContainerStyle={{ paddingBottom: 200 }}
